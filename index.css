@@ -1,13 +1,13 @@
-/* .company{
+.company{
     text-align: end;
     position: absolute;
-    top: 15px;
+    top: 10px;
     right: 40px;
 }
 .date{
     text-align: justify;
     position: relative;
-} */
+}
 
 .last-atag{
     border-bottom: 1px solid blue;
